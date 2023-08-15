@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  color: green;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/483/442/530/minimalism-black-glider-hacking-wallpaper-preview.jpg");
+}
+
+#title {
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 8%;
+  font-style: italic;
+}
+
+#text {
+  font-size: 40px;
+
+  text-align: center;
+
+  font-style: italic;
+}
